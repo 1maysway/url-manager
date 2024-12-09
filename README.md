@@ -1,3 +1,3 @@
 # url-manager
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/1maysway/url-manager)
+This package is here to help you manage the creation of your URLs
